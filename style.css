@@ -1,0 +1,29 @@
+body {
+    background-color: #e5d8ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: serif;
+}
+
+.contador-container{
+    background-color: #cf9cff;
+     padding: 20px;
+     -webkit-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.75);
+     -moz-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.75);
+     box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.75);
+    text-align: center;
+    border-radius: 10px;
+}
+
+h1{
+    color: black;
+}
+p{
+    font-size: 1.5em;
+}
+span {
+    font-weight: bold;
+}
